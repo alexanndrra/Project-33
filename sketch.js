@@ -52,7 +52,7 @@ function setup() {
     
 }
  
-mousePressed();
+
 
 function draw() {
   background("black");
